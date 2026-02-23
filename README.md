@@ -27,8 +27,7 @@ Small prompt changes (e.g., adding constraints like “balanced across different
 ## 📄 License
 Educational project for academic submission (AI course).
 
-## 📄 License
-Educational project for academic submission (AI course).
+
 
 
 
